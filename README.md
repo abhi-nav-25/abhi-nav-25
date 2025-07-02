@@ -88,7 +88,7 @@
 
 <h2 align="center">📊 Development Summary</h2>
 <p align="center">
-  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=abhi-nav-25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=abhi-nav-25&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
 </p>
 <hr/>
 
