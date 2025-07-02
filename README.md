@@ -57,7 +57,7 @@
 <p>Leaving a question unsolved keeps me more awake than coffee. ☕💻</p>
 <hr/>
 
-## 💻 Languages & Tools
+<h2> 💻 Languages & Tools</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -68,13 +68,14 @@
 </p>
 <hr/>
 
-## 🛠️ Commit History in Motion
+<h2> 🛠️ Commit History in Motion</h2>
 <p align="center">
   <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-contribution-grid-snake.svg" />
 </p>
 <hr/>
-## 📊 Profile Visitors
+<h2> 📊 Profile Visitors </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinav2503&label=Profile%20views&color=blue&style=flat-square" alt="abhinav2503" />
 </p>
+<hr/>
