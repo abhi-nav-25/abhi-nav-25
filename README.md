@@ -82,14 +82,14 @@
 
 <h2>🛠️ Commit History in Motion</h2>
 <p align="center">
-  ![Snake animation dark](https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-snake-dark.svg?raw=true)
+  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-snake.svg" />
 </p>
 
 <hr/>
 
 <h2>📊 Profile Visitors</h2>
-<p align="center">
-  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-snake.svg" />
-</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi-nav-25&style=flat-square" />
+</p>
 <hr/>
