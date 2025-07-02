@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/main/Abhinav Sharma.png?raw=true" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hey 👋, I'm Abhinav Sharma</h1>
 <h3 align="center">CS Student | Tech Enthusiast | Problem Solver</h3>
 
