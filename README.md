@@ -1,19 +1,23 @@
 <h1 align="center">Hey 👋, I'm Abhinav Sharma</h1>
-<h3 align="center" >CS Student | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">CS Student | Tech Enthusiast | Problem Solver</h3>
+
 <hr/>
+
 <h2>👨‍🎓 About Me</h2>
-<p>🚀 2nd-year CS student @ VIT Chennai | Passionate about tech, learning, and solving real-world problems through code.</p>
+<p>🚀 2nd-year CS student at <strong>VIT Chennai</strong> | Passionate about tech, learning, and solving real-world problems through code.</p>
+
 <hr/>
 
 <h2>🌱 Currently Learning</h2>
 <ul>
   <li>📘 Java programming and strengthening object-oriented programming concepts</li>
-  <li>📊 Data Structures & Algorithms</li>
+  <li>📊 Data Structures & Algorithms (DSA)</li>
 </ul>
+
 <hr/>
 
 <h2>🤝 Looking to Contribute</h2>
-<p>Actively looking to contribute to open source projects where I can learn, collaborate, and grow.</p>
+<p>Actively seeking open source projects where I can learn, collaborate, and grow.</p>
 
 <h3>📌 Areas of Interest</h3>
 <ul>
@@ -21,6 +25,7 @@
   <li>Java</li>
   <li>Data Structures & Algorithms (DSA)</li>
 </ul>
+
 <hr/>
 
 <h2>💬 Ask Me About</h2>
@@ -30,6 +35,7 @@
   <li>Basics of HTML & CSS</li>
   <li>Balancing academics, projects, and personal growth in college</li>
 </ul>
+
 <hr/>
 
 <h2>📫 Reach Me</h2>
@@ -51,13 +57,15 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 <hr/>
 
 <h2>⚡ Fun Fact</h2>
 <p>Leaving a question unsolved keeps me more awake than coffee. ☕💻</p>
+
 <hr/>
 
-<h2> 💻 Languages & Tools</h2>
+<h2>💻 Languages & Tools</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -66,16 +74,19 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
+
 <hr/>
 
-<h2> 🛠️ Commit History in Motion</h2>
+<h2>🛠️ Commit History in Motion</h2>
 <p align="center">
   <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-contribution-grid-snake.svg" />
 </p>
-<hr/>
-<h2> 📊 Profile Visitors </h2>
 
+<hr/>
+
+<h2>📊 Profile Visitors</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinav2503&label=Profile%20views&color=blue&style=flat-square" alt="abhinav2503" />
+  <img src="https://komarev.com/ghpvc/?username=abhi-nav-25&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
 </p>
+
 <hr/>
