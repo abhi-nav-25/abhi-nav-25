@@ -23,11 +23,13 @@ Actively looking to contribute to open source projects where I can learn, collab
 ***
 ## 📫 Reach Me
 
-📧 **Email:** [abhinav252006@gmail.com](mailto:abhinav252006@gmail.com)
+📧 **Email:** abhinav252006@gmail.com
 <br>
-Other Ways to Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-34b27a323/)
+**Other Ways to Connect:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-34b27a323/) 
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/abhi-nav-25)
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/i_m_abhi.nav)
 
 
