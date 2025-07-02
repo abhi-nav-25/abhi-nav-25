@@ -1,8 +1,17 @@
-# Hey 👋, I'm Abhinav Sharma
+<h1 align="center">Hey there 👋, welcome to my GitHub!</h1>
+
+<p align="center">
+I'm <strong>Abhinav Sharma</strong> — a CS student at VIT Chennai 🚀 <br>
+I’m currently learning DSA, Java, and exploring prompt engineering! 💡 <br>
+Thanks for visiting — enjoy browsing! 🌱
+</p>
 ***
+<!--# Hey 👋, I'm Abhinav Sharma
+***
+
 ## 👨‍🎓 About Me
 🚀 2nd-year CS student @ VIT Chennai | Passionate about tech, learning, and solving real-world problems through code.
-***
+*** -->
 ## 🌱 Currently Learning
 - 📘 Java programming and strengthening object-oriented programming concepts
 - 📊 Data Structures & Algorithms
@@ -28,29 +37,12 @@ Actively looking to contribute to open source projects where I can learn, collab
 <br>
 **Other Ways to Connect:**
 <br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-34b27a323/) 
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/abhi-nav-25)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/i_m_abhi.nav)
-
-
-
-
-
-<!--
-**abhi-nav-25/abhi-nav-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+ ***
+ ## ⚡ Fun Fact
+Leaving a question unsolved keeps me more awake than coffee. ☕💻
