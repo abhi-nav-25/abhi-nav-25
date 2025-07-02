@@ -1,8 +1,7 @@
 # Hey 👋, I'm Abhinav Sharma
-
+***
 ## 👨‍🎓 About Me
 🚀 2nd-year CS student @ VIT Chennai | Passionate about tech, learning, and solving real-world problems through code.
-***
 ***
 ## 🌱 Currently Learning
 - 📘 Java programming and strengthening object-oriented programming concepts
