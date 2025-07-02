@@ -25,7 +25,9 @@ Actively looking to contribute to open source projects where I can learn, collab
 
 📧 **Email:** abhinav252006@gmail.com
 <br>
+<br>
 **Other Ways to Connect:**
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-34b27a323/) 
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/abhi-nav-25)
