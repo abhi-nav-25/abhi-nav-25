@@ -82,7 +82,7 @@
 
 <h2>🛠️ Commit History in Motion</h2>
 <p align="center">
-  ![Snake animation dark](https://github.com/<your-username>/<your-repo>/blob/output/github-snake-dark.svg?raw=true)
+  ![Snake animation dark](https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-snake-dark.svg?raw=true)
 </p>
 
 <hr/>
