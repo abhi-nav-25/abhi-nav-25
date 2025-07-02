@@ -73,3 +73,8 @@
   <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-contribution-grid-snake.svg" />
 </p>
 <hr/>
+## 📊 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinav2503&label=Profile%20views&color=blue&style=flat-square" alt="abhinav2503" />
+</p>
