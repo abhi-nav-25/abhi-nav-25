@@ -1,25 +1,24 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/main/Abhinav Sharma.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/main/Abhinav%20Sharma.png?raw=true" alt="Banner" width="100%" />
 </p>
+
 <h1 align="center">Hey 👋, I'm Abhinav Sharma</h1>
 <h3 align="center">CS Student | Tech Enthusiast | Problem Solver</h3>
-
 <hr/>
 
 <h2>👨‍🎓 About Me</h2>
-<p>🚀 2nd-year CS student at <strong>VIT Chennai</strong> | Passionate about tech, learning, and solving real-world problems through code.</p>
-
+<p>💻 2nd-year CS student at <strong>VIT Chennai</strong> | Passionate about tech, learning, and solving real-world problems through code.</p>
 <hr/>
 
-<h2>🌱 Currently Learning</h2>
+<h2><img src="https://img.icons8.com/color/28/rocket.png"/> Currently Learning</h2>
 <ul>
   <li>📘 Java programming and strengthening object-oriented programming concepts</li>
   <li>📊 Data Structures & Algorithms (DSA)</li>
 </ul>
-
 <hr/>
 
-<h2>🤝 Looking to Contribute</h2>
+<h2><img src="https://img.icons8.com/color/28/conference-call.png"/> Looking to Contribute</h2>
 <p>Actively seeking open source projects where I can learn, collaborate, and grow.</p>
 
 <h3>📌 Areas of Interest</h3>
@@ -28,7 +27,6 @@
   <li>Java</li>
   <li>Data Structures & Algorithms (DSA)</li>
 </ul>
-
 <hr/>
 
 <h2>💬 Ask Me About</h2>
@@ -38,15 +36,12 @@
   <li>Basics of HTML & CSS</li>
   <li>Balancing academics, projects, and personal growth in college</li>
 </ul>
-
 <hr/>
 
 <h2>📫 Reach Me</h2>
-
 <p><strong>📧 Email:</strong> <a href="mailto:abhinav252006@gmail.com">abhinav252006@gmail.com</a></p>
 
 <p><strong>Other Ways to Connect:</strong></p>
-
 <p>
   <a href="https://www.linkedin.com/in/abhinav-sharma-34b27a323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
@@ -60,12 +55,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 <hr/>
 
 <h2>⚡ Fun Fact</h2>
 <p>Leaving a question unsolved keeps me more awake than coffee. ☕💻</p>
-
 <hr/>
 
 <h2>💻 Languages & Tools</h2>
@@ -77,18 +70,20 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
-
 <hr/>
 
 <h2>🛠️ Commit History in Motion</h2>
 <p align="center">
-  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-snake.svg" />
+  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-snake.svg?raw=true" />
 </p>
 <hr/>
+
 
 <h2 align="center">📊 Development Summary</h2>
 <p align="center">
   <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=abhi-nav-25&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <br/><br/>
+  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-nav-25&layout=compact&theme=react&hide_border=false" />
 </p>
 <hr/>
 
