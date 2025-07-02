@@ -55,7 +55,7 @@
 
 <h2>⚡ Fun Fact</h2>
 <p>Leaving a question unsolved keeps me more awake than coffee. ☕💻</p>
----
+<hr/>
 
 ## 💻 Languages & Tools
 <p align="left">
@@ -66,10 +66,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
----
+<hr/>
 
 ## 🛠️ Commit History in Motion
 <p align="center">
   <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-contribution-grid-snake.svg" />
 </p>
----
+<hr/>
