@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: abhi-nav-25
           outputs: |
-            dist/github-snake.svg?palette=nord
-            dist/github-snake-dark.svg?palette=nord
+            dist/github-snake.svg?palette=dracula
+            dist/github-snake-dark.svg?palette=dracula
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,4 +33,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation with nord palette [skip ci]"
+          commit_message: "Update snake animation with dracula theme [skip ci]"
+
