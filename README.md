@@ -1,94 +1,50 @@
-<!-- Banner -->
+<h1 align="center">Hi 👋 I'm Abhinav Sharma</h1>
+<h3 align="center">Computer Science Student | Web Developer | Data Enthusiast</h3>
+
 <p align="center">
-  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/main/Abhinav%20Sharma.png?raw=true" alt="Banner" width="100%" />
+CS Student at VIT Chennai passionate about building useful products, solving problems, and learning through projects.
 </p>
 
-<h1 align="center">Hey 👋, I'm Abhinav Sharma</h1>
-<h3 align="center">CS Student | Tech Enthusiast | Problem Solver</h3>
-<hr/>
+---
 
-<h2>👨‍🎓 About Me</h2>
-<p>💻 2nd-year CS student at <strong>VIT Chennai</strong> | Passionate about tech, learning, and solving real-world problems through code.</p>
-<hr/>
+## 🚀 Featured Projects
 
-<h2><img src="https://img.icons8.com/color/28/rocket.png"/> Currently Learning</h2>
-<ul>
-  <li>📘 Java programming and strengthening object-oriented programming concepts</li>
-  <li>📊 Data Structures & Algorithms (DSA)</li>
-</ul>
-<hr/>
+### 🧠 CARE.IO
+Frontend dashboard for mood, stress, and sleep tracking with interactive charts.
 
-<h2><img src="https://img.icons8.com/color/28/conference-call.png"/> Looking to Contribute</h2>
-<p>Actively seeking open source projects where I can learn, collaborate, and grow.</p>
+### ⚡ Order 66
+Gamified productivity platform with Pomodoro sessions and real-time collaboration.
 
-<h3>📌 Areas of Interest</h3>
-<ul>
-  <li>HTML & CSS</li>
-  <li>Java</li>
-  <li>Data Structures & Algorithms (DSA)</li>
-</ul>
-<hr/>
+### 🎬 Movie Analytics System
+Python + Pandas project for ranking and analyzing movie datasets.
 
-<h2>💬 Ask Me About</h2>
-<ul>
-  <li>Java programming and OOP concepts</li>
-  <li>DSA and problem-solving strategies</li>
-  <li>Basics of HTML & CSS</li>
-  <li>Balancing academics, projects, and personal growth in college</li>
-</ul>
-<hr/>
+---
 
-<h2>📫 Reach Me</h2>
-<p><strong>📧 Email:</strong> <a href="mailto:abhinav252006@gmail.com">abhinav252006@gmail.com</a></p>
+## 💻 Tech Stack
 
-<p><strong>Other Ways to Connect:</strong></p>
-<p>
-  <a href="https://www.linkedin.com/in/abhinav-sharma-34b27a323/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+C | C++ | Java | Python | JavaScript  
+React.js | HTML | CSS | Chart.js  
+Pandas | NumPy | Git | GitHub
 
-  <a href="https://github.com/abhi-nav-25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
-  </a>&nbsp;
+---
 
-  <a href="https://instagram.com/i_m_abhi.nav" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
-<hr/>
+## 📈 Currently Focused On
 
-<h2>⚡ Fun Fact</h2>
-<p>Leaving a question unsolved keeps me more awake than coffee. ☕💻</p>
-<hr/>
+- Data Structures & Algorithms  
+- Java + OOP  
+- Full Stack Development  
+- Better Projects
 
-<h2>💻 Languages & Tools</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Practice-green?style=flat&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-<hr/>
+---
 
-<h2>🛠️ Commit History in Motion</h2>
-<p align="center">
-  <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/output/github-snake.svg?raw=true" />
-</p>
-<hr/>
+## 📊 GitHub Stats
 
+(keep your existing cards)
 
-<h2 align="center">📊 Development Summary</h2>
-<p align="center">
-  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=abhi-nav-25&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <br/><br/>
-  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-nav-25&layout=compact&theme=react&hide_border=false" />
-</p>
-<hr/>
+---
 
-<h2>📊 Profile Visitors</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi-nav-25&style=flat-square" />
-</p>
-<hr/>
+## 📫 Connect With Me
+
+LinkedIn  
+GitHub  
+Email: abhinav252006@gmail.com
