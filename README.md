@@ -1,4 +1,3 @@
-```markdown
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/abhi-nav-25/abhi-nav-25/blob/main/Abhinav%20Sharma.png?raw=true" width="100%" />
@@ -32,17 +31,17 @@
 
 ## 🏆 Featured Projects
 
-### 🧠 CARE.IO  
+### 🧠 CARE.IO
 Mental wellness dashboard to track mood, stress, and sleep using charts and analytics.  
-**Tech:** HTML, CSS, JavaScript, Chart.js  
+**Tech:** HTML, CSS, JavaScript, Chart.js
 
-### ⚡ Order 66  
+### ⚡ Order 66
 Gamified productivity web app with collaborative Pomodoro sessions.  
-**Tech:** React.js, JavaScript, Socket.IO  
+**Tech:** React.js, JavaScript, Socket.IO
 
-### 🎬 Movie Recommendation & Analytics  
+### 🎬 Movie Recommendation & Analytics
 Python project for movie ranking, popularity scoring, and dataset insights.  
-**Tech:** Python, Pandas, NumPy  
+**Tech:** Python, Pandas, NumPy
 
 ---
 
@@ -92,7 +91,7 @@ Python project for movie ranking, popularity scoring, and dataset insights.
 
 ## 📫 Connect With Me
 
-📧 **Email:** abhinav252006@gmail.com  
+📧 **Email:** abhinav252006@gmail.com
 
 <p>
 <a href="https://www.linkedin.com/in/abhinav-sharma-34b27a323/">
@@ -109,4 +108,3 @@ Python project for movie ranking, popularity scoring, and dataset insights.
 ## ⚡ Fun Fact
 
 Leaving a bug unresolved bothers me more than low battery 🔋😄
-```
