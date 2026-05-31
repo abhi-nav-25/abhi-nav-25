@@ -66,18 +66,8 @@ Python project for movie ranking, popularity scoring, and dataset insights.
 ## 📚 Currently Focused On
 
 - Data Structures & Algorithms  
-- Java + OOP Concepts  
 - Better Full Stack Projects  
 - Internship Preparation
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhi-nav-25&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-nav-25&layout=compact&theme=react"/>
-</p>
 
 ---
 
