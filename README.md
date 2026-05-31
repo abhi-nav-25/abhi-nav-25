@@ -39,10 +39,6 @@ Mental wellness dashboard to track mood, stress, and sleep using charts and anal
 Gamified productivity web app with collaborative Pomodoro sessions.  
 **Tech:** React.js, JavaScript, Socket.IO
 
-### 🎬 Movie Recommendation & Analytics
-Python project for movie ranking, popularity scoring, and dataset insights.  
-**Tech:** Python, Pandas, NumPy
-
 ---
 
 ## 💻 Tech Stack
@@ -63,11 +59,11 @@ Python project for movie ranking, popularity scoring, and dataset insights.
 
 ---
 
-## 📚 Currently Focused On
+## 📊 GitHub Stats
 
-- Data Structures & Algorithms  
-- Better Full Stack Projects  
-- Internship Preparation
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-nav-25&theme=aura" />
+</p>
 
 ---
 
