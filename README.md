@@ -62,7 +62,8 @@ Gamified productivity web app with collaborative Pomodoro sessions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=abhi-nav-25&theme=aura" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=abhi-nav-25&show_icons=true&theme=aura" />
 </p>
 
 ---
