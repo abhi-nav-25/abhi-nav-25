@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-🎓 2nd Year Computer Science student at **VIT Chennai**  
+🎓 3rd Year Computer Science student at **VIT Chennai**  
 💻 Passionate about building useful software and solving real-world problems through code  
 📈 Interested in Web Development, Data Analysis, and DSA  
 🚀 Always learning by building projects
